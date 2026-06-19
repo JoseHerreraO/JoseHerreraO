@@ -24,16 +24,6 @@ Python · Git · SQL · MongoDB · Neo4j
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Raspberry Pi Car
-A Raspberry Pi 3 robot car controlled from a web interface over Wi-Fi.  
-Includes real-time joystick control (Flask), ultrasonic obstacle avoidance (HC-SR04), light sensing (LDR + MCP3008), and motor control via L298N with PWM.
-
-🔗 https://github.com/JoseHerreraO/raspberry-pi-car
-
----
-
 ## 📊 Featured Repositories
 
 <!-- Esto es lo que imita el estilo de tu captura -->
@@ -45,7 +35,6 @@ Includes real-time joystick control (Flask), ultrasonic obstacle avoidance (HC-S
 </p>
 
 ---
-
 
 ## 📊 Current Interests
 
