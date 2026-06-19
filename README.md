@@ -2,8 +2,6 @@
 
 ### Mathematical Engineering & AI | Quantitative Finance | ICAI
 
-I am interested in Artificial Intelligence, Quantitative Finance, and the application of mathematical models to real-world decision making.
-
 ---
 
 ## 🧠 About Me
