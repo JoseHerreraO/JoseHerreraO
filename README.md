@@ -1,49 +1,53 @@
 ## Welcome! I'm José Herrera 👋
 
-<!--
-**JoseHerreraO/JoseHerreraO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Mathematical Engineering & AI Student | Quantitative Finance | ICAI
+### Mathematical Engineering & AI | Quantitative Finance | ICAI
 
 I am interested in Artificial Intelligence, Quantitative Finance, and the application of mathematical models to real-world decision making.
 
+---
+
 ## 🧠 About Me
 
-- 🎓 Currently pursuing a BSc in Mathematical Engineering & Artificial Intelligence at Universidad Pontificia Comillas ICAI-ICADE.
-- 📈 Member of iMAT Quantitative Finance (iQF).
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science.
-- 💹 Passionate about Quantitative Finance and algorithmic trading.
+- 🎓 BSc in Mathematical Engineering & Artificial Intelligence (ICAI – Universidad Pontificia Comillas)
+- 📈 Member of iMAT Quantitative Finance (iQF)
+- 🤖 Focused on AI, Machine Learning & Data Science
+- 💹 Passionate about Quantitative Finance & Algorithmic Trading
+- 🧩 Building projects at the intersection of math, code, and systems
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-- **Data & AI:** Python, Pandas, NumPy, Scikit-Learn
-- **Core Development:** Python, Git, SQL, MongoDB, Neo4j
+**Data & AI**  
+Python · Pandas · NumPy · Scikit-Learn  
+
+**Core Development**  
+Python · Git · SQL · MongoDB · Neo4j  
 
 ---
 
 ## 🚀 Featured Projects
 
-### Raspberry Pi Car
+### 🧠 Raspberry Pi Car
+A Raspberry Pi 3 robot car controlled from a web interface over Wi-Fi.  
+Includes real-time joystick control (Flask), ultrasonic obstacle avoidance (HC-SR04), light sensing (LDR + MCP3008), and motor control via L298N with PWM.
 
-A Raspberry Pi 3 robot car controlled from any phone browser over Wi-Fi. Features a Flask-based touch joystick, HC-SR04 ultrasonic obstacle avoidance, automatic LED activation through an LDR sensor and MCP3008 ADC, and motor control via an L298N H-bridge using hardware PWM. Includes a complete GPIO wiring guide and a clean Python codebase.
-
-🔗 Repository: [raspberry-pi-car](https://github.com/JoseHerreraO/raspberry-pi-car)
+🔗 https://github.com/JoseHerreraO/raspberry-pi-car
 
 ---
+
+## 📊 Featured Repositories
+
+<!-- Esto es lo que imita el estilo de tu captura -->
+
+<p align="center">
+  <a href="https://github.com/JoseHerreraO/raspberry-pi-car">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseHerreraO&repo=raspberry-pi-car&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 
 ## 📊 Current Interests
 
@@ -56,6 +60,7 @@ A Raspberry Pi 3 robot car controlled from any phone browser over Wi-Fi. Feature
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's connect
 
-LinkedIn: [your-linkedin](https://www.linkedin.com/in/jos%C3%A9-herrera-ortiz-3551603b6/)
+LinkedIn:  
+https://www.linkedin.com/in/jos%C3%A9-herrera-ortiz-3551603b6/
