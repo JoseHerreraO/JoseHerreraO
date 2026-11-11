@@ -1,13 +1,13 @@
 ## Welcome! I'm José Herrera 👋
 
-### Mathematical Engineering & AI | Quantitative Finance | ICAI
+### Mathematical Engineering & AI @ ICAI
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 BSc in Mathematical Engineering & Artificial Intelligence (ICAI – Universidad Pontificia Comillas)
-- 📈 Member of iMAT Quantitative Finance (iQF)
+- 📈 Co-Founder & Head of AI | Quant & AI Strategies
 - 🤖 Focused on AI, Machine Learning & Data Science
 - 💹 Passionate about Quantitative Finance & Algorithmic Trading
 - 🧩 Building projects at the intersection of math, code, and systems
